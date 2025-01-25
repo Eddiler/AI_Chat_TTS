@@ -8,7 +8,7 @@ import tkinter as tk
 from tkinter import messagebox
 from threading import Thread
 from flask import Flask, request, jsonify
-from werkzeug.serving import make_server  # 导入 make_server
+from werkzeug.serving import make_server
 
 class TTSWorker(Thread):
     def __init__(self, text, callback):
@@ -52,7 +52,6 @@ class MyWindow:
     def __init__(self, root):
         self.root = root
         self.root.title("Text to Speech")
-        # 设置窗口初始大小（宽度 x 高度）
         self.root.geometry("300x400")  # 设置窗口的初始大小
         self.flask_thread = None
 
@@ -177,7 +176,7 @@ if __name__ == "__main__":
     root = tk.Tk()
     window = MyWindow(root)
 
-    # 启动 Flask 服务线程
+    # 启动 Flask 服务线程（不建议启用这条代码，虽然没bug但是.....）
     # window.start_service_btn_clicked()
 
     root.protocol("WM_DELETE_WINDOW", window.close)  # 点击关闭窗口时调用 close()

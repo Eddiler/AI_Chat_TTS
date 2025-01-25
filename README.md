@@ -16,8 +16,8 @@
 按照自己的模型更改相应地址\
 接着启动TTS_Service.py\
 点击Star Service\
-![image](https://github.com/user-attachments/assets/b969eb60-e199-46c6-94a9-d1298f0276f4)
-到这里就可以配合AI_Chat.py一起用了\
+![image](https://github.com/user-attachments/assets/b969eb60-e199-46c6-94a9-d1298f0276f4)\
+到这里就可以配合AI_Chat.py一起用了
 
 ### 当然TTS_Service.py也可以单独使用
 ![image](https://github.com/user-attachments/assets/e69017ed-d31c-4e86-bda7-258c05b2b900)\

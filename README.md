@@ -3,7 +3,7 @@
 项目python版本为3.10
 
 # 1.本地部署LLM大模型
-我自己是用LM studio本地部署LLM\
+用LM studio本地部署LLM\
 ![image](https://github.com/user-attachments/assets/ce4b71b8-1d24-44f1-95a7-d4096e683e6b)\
 部署完成后\
 到这一步为止，就可以启动AI_Chat.py程序了\

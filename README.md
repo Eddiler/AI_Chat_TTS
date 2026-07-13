@@ -6,9 +6,7 @@
 用LM studio本地部署LLM\
 ![image](https://github.com/user-attachments/assets/ce4b71b8-1d24-44f1-95a7-d4096e683e6b)\
 部署完成后\
-到这一步为止，就可以启动AI_Chat.py程序了\
-
-实现TTS
+启动AI_Chat.py程序\
 
 # 2.安装GPT-SoVITS-V2(实现TTS)
 安装完后\
@@ -18,11 +16,12 @@
 接着启动TTS_Service.py\
 点击Star Service\
 ![image](https://github.com/user-attachments/assets/b969eb60-e199-46c6-94a9-d1298f0276f4)\
-到这里就可以配合AI_Chat.py一起用了
+配合AI_Chat.py一并启动\
 
-### 当然TTS_Service.py也可以单独使用
+### TTS_Service.py可单独使用
 ![image](https://github.com/user-attachments/assets/e69017ed-d31c-4e86-bda7-258c05b2b900)\
-上方输入文本，点击TTS就可以了
+上方输入文本，点击TTS即可输出\
+项目搁置，不考虑优化界面
 
 
 

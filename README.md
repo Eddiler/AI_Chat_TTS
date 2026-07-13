@@ -5,7 +5,7 @@
 # 1.本地部署LLM大模型
 用LM studio本地部署LLM\
 ![image](https://github.com/user-attachments/assets/ce4b71b8-1d24-44f1-95a7-d4096e683e6b)\
-部署完成后\
+部署完成\
 启动AI_Chat.py程序\
 
 # 2.安装GPT-SoVITS-V2(实现TTS)
@@ -13,7 +13,7 @@
 ![image](https://github.com/user-attachments/assets/4ef43607-141c-472e-a2e3-f4e5cafa11a6)\
 ![image](https://github.com/user-attachments/assets/31f3da2d-f373-4d54-8f5f-6534f7a655b7)\
 按照自己的模型更改相应地址\
-接着启动TTS_Service.py\
+启动TTS_Service.py\
 点击Star Service\
 ![image](https://github.com/user-attachments/assets/b969eb60-e199-46c6-94a9-d1298f0276f4)\
 配合AI_Chat.py一并启动\

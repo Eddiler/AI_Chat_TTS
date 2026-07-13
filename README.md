@@ -7,7 +7,8 @@
 ![image](https://github.com/user-attachments/assets/ce4b71b8-1d24-44f1-95a7-d4096e683e6b)\
 部署完成后\
 到这一步为止，就可以启动AI_Chat.py程序了\
-如果你还想实现TTS就继续往下走
+
+实现TTS
 
 # 2.安装GPT-SoVITS-V2(实现TTS)
 安装完后\
